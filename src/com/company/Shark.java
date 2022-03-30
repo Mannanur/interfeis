@@ -8,4 +8,6 @@ public class Shark implements Swimable{
     public String toString() {
         return "Shark is swiming";
     }
+
+
 }
